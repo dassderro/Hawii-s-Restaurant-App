@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600553165081",
+    "project_id": "restaurant-f5900",
+    "storage_bucket": "restaurant-f5900.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600553165081:android:7824410b77bdcf88be7588",
+        "android_client_info": {
+          "package_name": "com.example.hawiirestaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvL5kMbBN2_EUR0XhHcTNOXljmjR9idY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

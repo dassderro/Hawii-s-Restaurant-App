@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:pathData="M256,256m-244,0a244,244 0,1 1,488 0a244,244 0,1 1,-488 0">
+    <aapt:attr name="android:fillColor">
+      <gradient
+          android:startX="12"
+          android:startY="12"
+          android:endX="500"
+          android:endY="500"
+          android:type="linear">
+        <item android:offset="0" android:color="#FFE8281A"/>
+        <item android:offset="1" android:color="#FFF6A623"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M256,256m-226,0a226,226 0,1 1,452 0a226,226 0,1 1,-452 0"
+      android:strokeAlpha="0.35"
+      android:strokeWidth="4"
+      android:fillColor="#00000000"
+      android:strokeColor="#FFFFFF"/>
+  <path
+      android:pathData="M180,128V204M206,128V204M232,128V204"
+      android:strokeLineJoin="round"
+      android:strokeWidth="22"
+      android:fillColor="#00000000"
+      android:strokeColor="#FFFFFF"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M180,204Q180,244 206,244Q232,244 232,204"
+      android:strokeLineJoin="round"
+      android:strokeWidth="22"
+      android:fillColor="#00000000"
+      android:strokeColor="#FFFFFF"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M206,244V388"
+      android:strokeLineJoin="round"
+      android:strokeWidth="22"
+      android:fillColor="#00000000"
+      android:strokeColor="#FFFFFF"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M312,270V388"
+      android:strokeLineJoin="round"
+      android:strokeWidth="22"
+      android:fillColor="#00000000"
+      android:strokeColor="#FFFFFF"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="M294,128C342,150 350,224 332,270H294Z"
+      android:fillColor="#FFFFFF"/>
+</vector>
